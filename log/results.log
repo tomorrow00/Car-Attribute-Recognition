@@ -1,0 +1,463 @@
+BCNN_VGG16:
+---Makename----:
+Class 0 :        ABT         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 1 :        BAC         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 2 :      Conquest      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 3 :         DS         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 4 :       Dacia        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 5 :       Fisker       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 6 :        GMC         , TP:  1   , TP+FP:  3   , TP+FN:  1   , Precision:0.3333, Recall:1.0000
+Class 7 :      Gumpert       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 8 :     Hennessey      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 9 :       Icona        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class10 :        Jeep        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class11 :        KTM         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class12 :       MELKUS       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class13 :         MG         , TP:  24  , TP+FP:  33  , TP+FN:  26  , Precision:0.7273, Recall:0.9231
+Class14 :        MINI        , TP:  72  , TP+FP:  76  , TP+FN:  73  , Precision:0.9474, Recall:0.9863
+Class15 :      Mazzanti      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class16 :       Noble        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class17 :        PGO         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class18 :       SPIRRA       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class19 :        SSC         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class20 :       Scion        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class21 :       TESLA        , TP:  3   , TP+FP:  5   , TP+FN:  3   , Precision:0.6000, Recall:1.0000
+Class22 :        TVR         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class23 :     Tramontana     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class24 :       Zenvo        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class25 :       smart        , TP:  16  , TP+FP:  21  , TP+FN:  18  , Precision:0.7619, Recall:0.8889
+Class26 :        Yiqi        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class27 :     Mitsubishi     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class28 :   Shangqidatong    , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class29 :       Spyker       , TP:  3   , TP+FP:  5   , TP+FN:  4   , Precision:0.6000, Recall:0.7500
+Class30 :      Dongnan       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class31 :      Dongfeng      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class32 :  Dongfengxiaokang  , TP:  21  , TP+FP:  24  , TP+FN:  21  , Precision:0.8750, Recall:1.0000
+Class33 :   Dongfengfengdu   , TP:  8   , TP+FP:  13  , TP+FN:  12  , Precision:0.6154, Recall:0.6667
+Class34 :  Dongfengfengshen  , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class35 :  Dongfengfengxing  , TP:  30  , TP+FP:  38  , TP+FN:  42  , Precision:0.7895, Recall:0.7143
+Class36 :       Zxauto       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class37 :      Zhonghua      , TP:  73  , TP+FP:  98  , TP+FN: 102  , Precision:0.7449, Recall:0.7157
+Class38 :       Toyota       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class39 :       Zinoro       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class40 :      Jiulong       , TP:  2   , TP+FP:  3   , TP+FN:  2   , Precision:0.6667, Recall:1.0000
+Class41 :       Isuzu        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class42 :       Wuling       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class43 :         AC         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class44 :       Zoyte        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class45 :       Iveco        , TP:  6   , TP+FP:  6   , TP+FN:  6   , Precision:1.0000, Recall:1.0000
+Class46 :       Bufori       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class47 :      Porsche       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class48 :      Mitsuoka      , TP:  11  , TP+FP:  14  , TP+FN:  16  , Precision:0.7857, Recall:0.6875
+Class49 :      Chrysler      , TP:  8   , TP+FP:  11  , TP+FN:  10  , Precision:0.7273, Recall:0.8000
+Class50 :     Lamorghini     , TP:  16  , TP+FP:  22  , TP+FN:  19  , Precision:0.7273, Recall:0.8421
+Class51 :       Kombat       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class52 :      Cadillac      , TP:  49  , TP+FP:  57  , TP+FN:  55  , Precision:0.8596, Recall:0.8909
+Class53 :        Buck        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class54 :       Lifan        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class55 :      Lorinser      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class56 :    Rolls-Royce     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class57 :        BAW         , TP:  13  , TP+FP:  20  , TP+FN:  18  , Precision:0.6500, Recall:0.7222
+Class58 :       Baihc        , TP:  3   , TP+FP:  8   , TP+FN:  8   , Precision:0.3750, Recall:0.3750
+Class59 :    Beiqiweiwang    , TP:  13  , TP+FP:  14  , TP+FN:  17  , Precision:0.9286, Recall:0.7647
+Class60 :    Beiqihuansu     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class61 :       Beiqi        , TP:  5   , TP+FP:  9   , TP+FN:  10  , Precision:0.5556, Recall:0.5000
+Class62 :       Huapu        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class63 :       Huatai       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class64 :       Huaqi        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class65 :      Carlsson      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class66 :     Shuanghuan     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class67 :     Shuanglong     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class68 :       Geely        , TP: 110  , TP+FP: 148  , TP+FN: 146  , Precision:0.7432, Recall:0.7534
+Class69 :      Venucia       , TP:  38  , TP+FP:  43  , TP+FN:  41  , Precision:0.8837, Recall:0.9268
+Class70 :       Haval        , TP:  34  , TP+FP:  38  , TP+FN:  41  , Precision:0.8947, Recall:0.8293
+Class71 :       Hafei        , TP:  10  , TP+FP:  17  , TP+FN:  13  , Precision:0.5882, Recall:0.7692
+Class72 :     Volkswagen     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class73 :      Daihatsu      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class74 :       Chrey        , TP: 111  , TP+FP: 149  , TP+FN: 172  , Precision:0.7450, Recall:0.6453
+Class75 :      Besturn       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class76 :        Benz        , TP: 259  , TP+FP: 271  , TP+FN: 310  , Precision:0.9557, Recall:0.8355
+Class77 :        Audi        , TP: 238  , TP+FP: 256  , TP+FN: 264  , Precision:0.9297, Recall:0.9015
+Class78 :      Wisemann      , TP:  2   , TP+FP:  2   , TP+FN:  2   , Precision:1.0000, Recall:1.0000
+Class79 :      Wealeak       , TP:  4   , TP+FP:  8   , TP+FN:  8   , Precision:0.5000, Recall:0.5000
+Class80 :        BMW         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class81 :       Baojun       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class82 :      Bentley       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class83 :       Brabus       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class84 :      Bugatti       , TP:  0   , TP+FP:  6   , TP+FN:  0   , Precision:0.0000, Recall:   nan
+Class85 :       Pagani       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class86 :   Guangqichuanqi   , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class87 :        GAC         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class88 :       Karry        , TP:  13  , TP+FP:  13  , TP+FN:  15  , Precision:1.0000, Recall:0.8667
+Class89 :       Ciimo        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class90 :        CHTC        , TP:  8   , TP+FP:  11  , TP+FN:  12  , Precision:0.7273, Recall:0.6667
+Class91 :       Jaguar       , TP:  13  , TP+FP:  18  , TP+FN:  18  , Precision:0.7222, Recall:0.7222
+Class92 :       Morgan       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class93 :       Subaru       , TP:  55  , TP+FP:  72  , TP+FN:  71  , Precision:0.7639, Recall:0.7746
+Class94 :       Skoda        , TP:  71  , TP+FP:  83  , TP+FN:  84  , Precision:0.8554, Recall:0.8452
+Class95 :       Xinkai       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class96 :       Nissan       , TP: 105  , TP+FP: 144  , TP+FN: 144  , Precision:0.7292, Recall:0.7292
+Class97 :      Changhe       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class98 :        RANZ        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class99 :       Honda        , TP:  82  , TP+FP: 109  , TP+FN: 110  , Precision:0.7523, Recall:0.7455
+Class100:      Lincoln       , TP:  32  , TP+FP:  46  , TP+FN:  38  , Precision:0.6957, Recall:0.8421
+Class101:      Peugeot       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class102:        Opel        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class103:        Oley        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class104:        BYD         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class105:       Jonway       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class106:      Huizhong      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class107:     Jianghuai      , TP:  95  , TP+FP: 129  , TP+FN: 133  , Precision:0.7364, Recall:0.7143
+Class108:     Jiangling      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class109:      Vauxhall      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class110:       Volvo        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class111:      Ferrari       , TP:  31  , TP+FP:  38  , TP+FN:  42  , Precision:0.8158, Recall:0.7381
+Class112:       Haige        , TP:  16  , TP+FP:  20  , TP+FN:  18  , Precision:0.8000, Recall:0.8889
+Class113:       Haima        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class114:  Haima(Zhengzhou)  , TP:  3   , TP+FP:  4   , TP+FN:  4   , Precision:0.7500, Recall:0.7500
+Class115:      Cheetah       , TP:  12  , TP+FP:  25  , TP+FN:  14  , Precision:0.4800, Recall:0.8571
+Class116:      Maserati      , TP:  18  , TP+FP:  27  , TP+FN:  20  , Precision:0.6667, Recall:0.9000
+Class117:      Hyundai       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class118:       Everus       , TP:  5   , TP+FP:  6   , TP+FN:  5   , Precision:0.8333, Recall:1.0000
+Class119:       Ruiqi        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class120:     Fuqiqiteng     , TP:  3   , TP+FP:  4   , TP+FN:  3   , Precision:0.7500, Recall:1.0000
+Class121:        Ford        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class122:       Futian       , TP:  25  , TP+FP:  29  , TP+FN:  29  , Precision:0.8621, Recall:0.8621
+Class123:        Fudi        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class124:     Koenigsegg     , TP:  7   , TP+FP:  9   , TP+FN:  7   , Precision:0.7778, Recall:1.0000
+Class125:       HongQi       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class126:       Luxgen       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class127:        SAAB        , TP:  19  , TP+FP:  24  , TP+FN:  23  , Precision:0.7917, Recall:0.8261
+Class128:       Denza        , TP:  9   , TP+FP:  13  , TP+FN:  9   , Precision:0.6923, Recall:1.0000
+Class129:      Yingzhi       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class130:      Infiniti      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class131:       Roewe        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class132:       Lotus        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class133:        FIAT        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class134:        Saab        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class135:       Lancia       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class136:        Seat        , TP:  14  , TP+FP:  21  , TP+FN:  16  , Precision:0.6667, Recall:0.8750
+Class137:       Qoros        , TP:  3   , TP+FP:  5   , TP+FN:  3   , Precision:0.6000, Recall:1.0000
+Class138:       Acura        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class139:        KIA         , TP: 135  , TP+FP: 163  , TP+FN: 158  , Precision:0.8282, Recall:0.8544
+Class140:       Lotus        , TP:  21  , TP+FP:  34  , TP+FN:  33  , Precision:0.6176, Recall:0.6364
+Class141:     LAND-ROVER     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class142:      McLaren       , TP:  12  , TP+FP:  17  , TP+FN:  19  , Precision:0.7059, Recall:0.6316
+Class143:      Maybach       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class144:       Dodge        , TP:  8   , TP+FP:  15  , TP+FN:  12  , Precision:0.5333, Recall:0.6667
+Class145:      Mustang       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class146:       Jinlv        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class147:       Jinbei       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class148:       Suzuki       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class149:     GreatWall      , TP:  99  , TP+FP: 122  , TP+FN: 121  , Precision:0.8115, Recall:0.8182
+Class150:      Changan       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class151:      Changan       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class152:        Alfa        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class153:       Aston        , TP:  42  , TP+FP:  53  , TP+FN:  52  , Precision:0.7925, Recall:0.8077
+Class154:       Lufeng       , TP:  11  , TP+FP:  21  , TP+FN:  15  , Precision:0.5238, Recall:0.7333
+Class155:   Shanqitongjia    , TP:  2   , TP+FP:  4   , TP+FN:  2   , Precision:0.5000, Recall:1.0000
+Class156:       Chevy        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class157:      Citroen       , TP:  58  , TP+FP:  73  , TP+FN:  80  , Precision:0.7945, Recall:0.7250
+Class158:       Lexus        , TP: 105  , TP+FP: 125  , TP+FN: 125  , Precision:0.8400, Recall:0.8400
+Class159:      Renault       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class160:      Shouwang      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class161:       MAZDA        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class162:      Huanghai      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Average Precision:  0.7246, Average Recall:  0.8148
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+-----Pose------:
+Class 0 :       front        , TP: 365  , TP+FP: 377  , TP+FN: 375  , Precision:0.9682, Recall:0.9733
+Class 1 :        rear        , TP: 266  , TP+FP: 270  , TP+FN: 271  , Precision:0.9852, Recall:0.9815
+Class 2 :        side        , TP: 500  , TP+FP: 525  , TP+FN: 519  , Precision:0.9524, Recall:0.9634
+Class 3 :     frontside      , TP: 1022 , TP+FP: 1045 , TP+FN: 1046 , Precision:0.9780, Recall:0.9771
+Class 4 :      rearside      , TP: 668  , TP+FP: 678  , TP+FN: 684  , Precision:0.9853, Recall:0.9766
+Average Precision:  0.9738, Average Recall:  0.9744
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+---Car Type----:
+Class 0 :        MPV         , TP: 143  , TP+FP: 175  , TP+FN: 159  , Precision:0.8171, Recall:0.8994
+Class 1 :        SUV         , TP: 522  , TP+FP: 582  , TP+FN: 593  , Precision:0.8969, Recall:0.8803
+Class 2 :       sedan        , TP: 744  , TP+FP: 821  , TP+FN: 881  , Precision:0.9062, Recall:0.8445
+Class 3 :     hatchback      , TP: 454  , TP+FP: 530  , TP+FN: 587  , Precision:0.8566, Recall:0.7734
+Class 4 :      minibus       , TP: 123  , TP+FP: 131  , TP+FN: 136  , Precision:0.9389, Recall:0.9044
+Class 5 :      fastback      , TP:  70  , TP+FP: 129  , TP+FN:  81  , Precision:0.5426, Recall:0.8642
+Class 6 :       estate       , TP:  10  , TP+FP:  23  , TP+FN:  16  , Precision:0.4348, Recall:0.6250
+Class 7 :       pickup       , TP:  51  , TP+FP:  64  , TP+FN:  51  , Precision:0.7969, Recall:1.0000
+Class 8 : hardtopconvertible , TP:  36  , TP+FP:  71  , TP+FN:  41  , Precision:0.5070, Recall:0.8780
+Class 9 :       sports       , TP: 240  , TP+FP: 280  , TP+FN: 284  , Precision:0.8571, Recall:0.8451
+Class10 :     crossover      , TP:  28  , TP+FP:  46  , TP+FN:  33  , Precision:0.6087, Recall:0.8485
+Class11 :    convertible     , TP:  27  , TP+FP:  43  , TP+FN:  33  , Precision:0.6279, Recall:0.8182
+Average Precision:  0.7326, Average Recall:  0.8484
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+-----Color-----:
+Class 0 :       black        , TP: 589  , TP+FP: 599  , TP+FN: 604  , Precision:0.9833, Recall:0.9752
+Class 1 :       white        , TP: 1093 , TP+FP: 1113 , TP+FN: 1112 , Precision:0.9820, Recall:0.9829
+Class 2 :        red         , TP: 385  , TP+FP: 388  , TP+FN: 394  , Precision:0.9923, Recall:0.9772
+Class 3 :       yellow       , TP:  27  , TP+FP:  27  , TP+FN:  27  , Precision:1.0000, Recall:1.0000
+Class 4 :        blue        , TP: 217  , TP+FP: 220  , TP+FN: 219  , Precision:0.9864, Recall:0.9909
+Class 5 :       green        , TP:  11  , TP+FP:  12  , TP+FN:  11  , Precision:0.9167, Recall:1.0000
+Class 6 :       purple       , TP:  10  , TP+FP:  23  , TP+FN:  10  , Precision:0.4348, Recall:1.0000
+Class 7 :       orange       , TP:  60  , TP+FP:  60  , TP+FN:  62  , Precision:1.0000, Recall:0.9677
+Class 8 :        gold        , TP:  1   , TP+FP:  1   , TP+FN:  1   , Precision:1.0000, Recall:1.0000
+Class 9 :       silver       , TP: 426  , TP+FP: 452  , TP+FN: 455  , Precision:0.9425, Recall:0.9363
+Average Precision:  0.9238, Average Recall:  0.9830
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+--Seat Number--:
+Class 0 :        zero        , TP:  6   , TP+FP:  10  , TP+FN:  7   , Precision:0.6000, Recall:0.8571
+Class 1 :        two         , TP: 200  , TP+FP: 246  , TP+FN: 235  , Precision:0.8130, Recall:0.8511
+Class 2 :       three        , TP:  3   , TP+FP:  8   , TP+FN:  6   , Precision:0.3750, Recall:0.5000
+Class 3 :        four        , TP: 240  , TP+FP: 329  , TP+FN: 305  , Precision:0.7295, Recall:0.7869
+Class 4 :        five        , TP: 1901 , TP+FP: 1968 , TP+FN: 2066 , Precision:0.9660, Recall:0.9201
+Class 5 :        six         , TP:  11  , TP+FP:  17  , TP+FN:  15  , Precision:0.6471, Recall:0.7333
+Class 6 :       seven        , TP: 164  , TP+FP: 228  , TP+FN: 192  , Precision:0.7193, Recall:0.8542
+Class 7 :       eight        , TP:  20  , TP+FP:  34  , TP+FN:  22  , Precision:0.5882, Recall:0.9091
+Class 8 :        nine        , TP:  28  , TP+FP:  34  , TP+FN:  31  , Precision:0.8235, Recall:0.9032
+Class 9 :        ten         , TP:  0   , TP+FP:  1   , TP+FN:  0   , Precision:0.0000, Recall:   nan
+Class10 :       eleven       , TP:  3   , TP+FP:  5   , TP+FN:  3   , Precision:0.6000, Recall:1.0000
+Class11 :       twelve       , TP:  2   , TP+FP:  3   , TP+FN:  2   , Precision:0.6667, Recall:1.0000
+Class12 :      fifteen       , TP:  8   , TP+FP:  9   , TP+FN:  9   , Precision:0.8889, Recall:0.8889
+Class13 :     twenty-one     , TP:  2   , TP+FP:  3   , TP+FN:  2   , Precision:0.6667, Recall:1.0000
+Class14 :    twenty-three    , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Average Precision:  0.6488, Average Recall:  0.8618
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+--Door Number--:
+Class 0 :        zero        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 1 :        two         , TP: 362  , TP+FP: 413  , TP+FN: 421  , Precision:0.8765, Recall:0.8599
+Class 2 :       three        , TP:  90  , TP+FP: 136  , TP+FN: 103  , Precision:0.6618, Recall:0.8738
+Class 3 :        four        , TP: 792  , TP+FP: 919  , TP+FN: 902  , Precision:0.8618, Recall:0.8780
+Class 4 :        five        , TP: 1327 , TP+FP: 1427 , TP+FN: 1469 , Precision:0.9299, Recall:0.9033
+Class 5 :        six         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Average Precision:  0.8325, Average Recall:  0.8788
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+BCNN ResNet101
+---Makename----:
+Class 0 :        ABT         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 1 :        BAC         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 2 :      Conquest      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 3 :         DS         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 4 :       Dacia        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 5 :       Fisker       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 6 :        GMC         , TP:  2   , TP+FP:  3   , TP+FN:  2   , Precision:0.6667, Recall:1.0000
+Class 7 :      Gumpert       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 8 :     Hennessey      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 9 :       Icona        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class10 :        Jeep        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class11 :        KTM         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class12 :       MELKUS       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class13 :         MG         , TP:  26  , TP+FP:  33  , TP+FN:  27  , Precision:0.7879, Recall:0.9630
+Class14 :        MINI        , TP:  73  , TP+FP:  76  , TP+FN:  74  , Precision:0.9605, Recall:0.9865
+Class15 :      Mazzanti      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class16 :       Noble        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class17 :        PGO         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class18 :       SPIRRA       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class19 :        SSC         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class20 :       Scion        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class21 :       TESLA        , TP:  2   , TP+FP:  5   , TP+FN:  2   , Precision:0.4000, Recall:1.0000
+Class22 :        TVR         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class23 :     Tramontana     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class24 :       Zenvo        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class25 :       smart        , TP:  19  , TP+FP:  21  , TP+FN:  19  , Precision:0.9048, Recall:1.0000
+Class26 :        Yiqi        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class27 :     Mitsubishi     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class28 :   Shangqidatong    , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class29 :       Spyker       , TP:  3   , TP+FP:  5   , TP+FN:  4   , Precision:0.6000, Recall:0.7500
+Class30 :      Dongnan       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class31 :      Dongfeng      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class32 :  Dongfengxiaokang  , TP:  21  , TP+FP:  24  , TP+FN:  22  , Precision:0.8750, Recall:0.9545
+Class33 :   Dongfengfengdu   , TP:  11  , TP+FP:  13  , TP+FN:  11  , Precision:0.8462, Recall:1.0000
+Class34 :  Dongfengfengshen  , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class35 :  Dongfengfengxing  , TP:  32  , TP+FP:  38  , TP+FN:  35  , Precision:0.8421, Recall:0.9143
+Class36 :       Zxauto       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class37 :      Zhonghua      , TP:  78  , TP+FP:  98  , TP+FN: 103  , Precision:0.7959, Recall:0.7573
+Class38 :       Toyota       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class39 :       Zinoro       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class40 :      Jiulong       , TP:  2   , TP+FP:  3   , TP+FN:  2   , Precision:0.6667, Recall:1.0000
+Class41 :       Isuzu        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class42 :       Wuling       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class43 :         AC         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class44 :       Zoyte        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class45 :       Iveco        , TP:  6   , TP+FP:  6   , TP+FN:  6   , Precision:1.0000, Recall:1.0000
+Class46 :       Bufori       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class47 :      Porsche       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class48 :      Mitsuoka      , TP:  9   , TP+FP:  14  , TP+FN:  10  , Precision:0.6429, Recall:0.9000
+Class49 :      Chrysler      , TP:  9   , TP+FP:  11  , TP+FN:  11  , Precision:0.8182, Recall:0.8182
+Class50 :     Lamorghini     , TP:  14  , TP+FP:  22  , TP+FN:  16  , Precision:0.6364, Recall:0.8750
+Class51 :       Kombat       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class52 :      Cadillac      , TP:  53  , TP+FP:  57  , TP+FN:  57  , Precision:0.9298, Recall:0.9298
+Class53 :        Buck        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class54 :       Lifan        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class55 :      Lorinser      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class56 :    Rolls-Royce     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class57 :        BAW         , TP:  20  , TP+FP:  20  , TP+FN:  22  , Precision:1.0000, Recall:0.9091
+Class58 :       Baihc        , TP:  5   , TP+FP:  8   , TP+FN:  5   , Precision:0.6250, Recall:1.0000
+Class59 :    Beiqiweiwang    , TP:  12  , TP+FP:  14  , TP+FN:  12  , Precision:0.8571, Recall:1.0000
+Class60 :    Beiqihuansu     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class61 :       Beiqi        , TP:  5   , TP+FP:  9   , TP+FN:  5   , Precision:0.5556, Recall:1.0000
+Class62 :       Huapu        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class63 :       Huatai       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class64 :       Huaqi        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class65 :      Carlsson      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class66 :     Shuanghuan     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class67 :     Shuanglong     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class68 :       Geely        , TP: 122  , TP+FP: 148  , TP+FN: 176  , Precision:0.8243, Recall:0.6932
+Class69 :      Venucia       , TP:  36  , TP+FP:  43  , TP+FN:  38  , Precision:0.8372, Recall:0.9474
+Class70 :       Haval        , TP:  35  , TP+FP:  38  , TP+FN:  42  , Precision:0.9211, Recall:0.8333
+Class71 :       Hafei        , TP:  11  , TP+FP:  17  , TP+FN:  14  , Precision:0.6471, Recall:0.7857
+Class72 :     Volkswagen     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class73 :      Daihatsu      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class74 :       Chrey        , TP: 119  , TP+FP: 149  , TP+FN: 172  , Precision:0.7987, Recall:0.6919
+Class75 :      Besturn       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class76 :        Benz        , TP: 257  , TP+FP: 271  , TP+FN: 301  , Precision:0.9483, Recall:0.8538
+Class77 :        Audi        , TP: 237  , TP+FP: 256  , TP+FN: 259  , Precision:0.9258, Recall:0.9151
+Class78 :      Wisemann      , TP:  2   , TP+FP:  2   , TP+FN:  4   , Precision:1.0000, Recall:0.5000
+Class79 :      Wealeak       , TP:  4   , TP+FP:  8   , TP+FN:  5   , Precision:0.5000, Recall:0.8000
+Class80 :        BMW         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class81 :       Baojun       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class82 :      Bentley       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class83 :       Brabus       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class84 :      Bugatti       , TP:  1   , TP+FP:  6   , TP+FN:  1   , Precision:0.1667, Recall:1.0000
+Class85 :       Pagani       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class86 :   Guangqichuanqi   , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class87 :        GAC         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class88 :       Karry        , TP:  13  , TP+FP:  13  , TP+FN:  14  , Precision:1.0000, Recall:0.9286
+Class89 :       Ciimo        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class90 :        CHTC        , TP:  8   , TP+FP:  11  , TP+FN:  8   , Precision:0.7273, Recall:1.0000
+Class91 :       Jaguar       , TP:  13  , TP+FP:  18  , TP+FN:  16  , Precision:0.7222, Recall:0.8125
+Class92 :       Morgan       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class93 :       Subaru       , TP:  58  , TP+FP:  72  , TP+FN:  64  , Precision:0.8056, Recall:0.9062
+Class94 :       Skoda        , TP:  68  , TP+FP:  83  , TP+FN:  73  , Precision:0.8193, Recall:0.9315
+Class95 :       Xinkai       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class96 :       Nissan       , TP: 118  , TP+FP: 144  , TP+FN: 201  , Precision:0.8194, Recall:0.5871
+Class97 :      Changhe       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class98 :        RANZ        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class99 :       Honda        , TP:  84  , TP+FP: 109  , TP+FN: 107  , Precision:0.7706, Recall:0.7850
+Class100:      Lincoln       , TP:  35  , TP+FP:  46  , TP+FN:  42  , Precision:0.7609, Recall:0.8333
+Class101:      Peugeot       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class102:        Opel        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class103:        Oley        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class104:        BYD         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class105:       Jonway       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class106:      Huizhong      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class107:     Jianghuai      , TP: 105  , TP+FP: 129  , TP+FN: 126  , Precision:0.8140, Recall:0.8333
+Class108:     Jiangling      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class109:      Vauxhall      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class110:       Volvo        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class111:      Ferrari       , TP:  32  , TP+FP:  38  , TP+FN:  35  , Precision:0.8421, Recall:0.9143
+Class112:       Haige        , TP:  18  , TP+FP:  20  , TP+FN:  20  , Precision:0.9000, Recall:0.9000
+Class113:       Haima        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class114:  Haima(Zhengzhou)  , TP:  3   , TP+FP:  4   , TP+FN:  3   , Precision:0.7500, Recall:1.0000
+Class115:      Cheetah       , TP:  19  , TP+FP:  25  , TP+FN:  19  , Precision:0.7600, Recall:1.0000
+Class116:      Maserati      , TP:  21  , TP+FP:  27  , TP+FN:  21  , Precision:0.7778, Recall:1.0000
+Class117:      Hyundai       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class118:       Everus       , TP:  5   , TP+FP:  6   , TP+FN:  5   , Precision:0.8333, Recall:1.0000
+Class119:       Ruiqi        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class120:     Fuqiqiteng     , TP:  4   , TP+FP:  4   , TP+FN:  4   , Precision:1.0000, Recall:1.0000
+Class121:        Ford        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class122:       Futian       , TP:  22  , TP+FP:  29  , TP+FN:  25  , Precision:0.7586, Recall:0.8800
+Class123:        Fudi        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class124:     Koenigsegg     , TP:  8   , TP+FP:  9   , TP+FN:  8   , Precision:0.8889, Recall:1.0000
+Class125:       HongQi       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class126:       Luxgen       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class127:        SAAB        , TP:  20  , TP+FP:  24  , TP+FN:  22  , Precision:0.8333, Recall:0.9091
+Class128:       Denza        , TP:  10  , TP+FP:  13  , TP+FN:  10  , Precision:0.7692, Recall:1.0000
+Class129:      Yingzhi       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class130:      Infiniti      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class131:       Roewe        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class132:       Lotus        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class133:        FIAT        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class134:        Saab        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class135:       Lancia       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class136:        Seat        , TP:  17  , TP+FP:  21  , TP+FN:  18  , Precision:0.8095, Recall:0.9444
+Class137:       Qoros        , TP:  3   , TP+FP:  5   , TP+FN:  3   , Precision:0.6000, Recall:1.0000
+Class138:       Acura        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class139:        KIA         , TP: 140  , TP+FP: 163  , TP+FN: 171  , Precision:0.8589, Recall:0.8187
+Class140:       Lotus        , TP:  25  , TP+FP:  34  , TP+FN:  29  , Precision:0.7353, Recall:0.8621
+Class141:     LAND-ROVER     , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class142:      McLaren       , TP:  13  , TP+FP:  17  , TP+FN:  16  , Precision:0.7647, Recall:0.8125
+Class143:      Maybach       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class144:       Dodge        , TP:  9   , TP+FP:  15  , TP+FN:  10  , Precision:0.6000, Recall:0.9000
+Class145:      Mustang       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class146:       Jinlv        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class147:       Jinbei       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class148:       Suzuki       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class149:     GreatWall      , TP: 101  , TP+FP: 122  , TP+FN: 115  , Precision:0.8279, Recall:0.8783
+Class150:      Changan       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class151:      Changan       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class152:        Alfa        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class153:       Aston        , TP:  47  , TP+FP:  53  , TP+FN:  51  , Precision:0.8868, Recall:0.9216
+Class154:       Lufeng       , TP:  13  , TP+FP:  21  , TP+FN:  13  , Precision:0.6190, Recall:1.0000
+Class155:   Shanqitongjia    , TP:  3   , TP+FP:  4   , TP+FN:  3   , Precision:0.7500, Recall:1.0000
+Class156:       Chevy        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class157:      Citroen       , TP:  57  , TP+FP:  73  , TP+FN:  64  , Precision:0.7808, Recall:0.8906
+Class158:       Lexus        , TP: 111  , TP+FP: 125  , TP+FN: 122  , Precision:0.8880, Recall:0.9098
+Class159:      Renault       , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class160:      Shouwang      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class161:       MAZDA        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class162:      Huanghai      , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Average Precision:  0.7815, Average Recall:  0.9022
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+-----Pose------:
+Class 0 :       front        , TP: 336  , TP+FP: 377  , TP+FN: 345  , Precision:0.8912, Recall:0.9739
+Class 1 :        rear        , TP: 259  , TP+FP: 270  , TP+FN: 263  , Precision:0.9593, Recall:0.9848
+Class 2 :        side        , TP: 500  , TP+FP: 525  , TP+FN: 565  , Precision:0.9524, Recall:0.8850
+Class 3 :     frontside      , TP: 1017 , TP+FP: 1045 , TP+FN: 1042 , Precision:0.9732, Recall:0.9760
+Class 4 :      rearside      , TP: 666  , TP+FP: 678  , TP+FN: 680  , Precision:0.9823, Recall:0.9794
+Average Precision:  0.9517, Average Recall:  0.9598
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+---Car Type----:
+Class 0 :        MPV         , TP: 138  , TP+FP: 175  , TP+FN: 147  , Precision:0.7886, Recall:0.9388
+Class 1 :        SUV         , TP: 533  , TP+FP: 582  , TP+FN: 592  , Precision:0.9158, Recall:0.9003
+Class 2 :       sedan        , TP: 738  , TP+FP: 821  , TP+FN: 880  , Precision:0.8989, Recall:0.8386
+Class 3 :     hatchback      , TP: 449  , TP+FP: 530  , TP+FN: 536  , Precision:0.8472, Recall:0.8377
+Class 4 :      minibus       , TP: 121  , TP+FP: 131  , TP+FN: 131  , Precision:0.9237, Recall:0.9237
+Class 5 :      fastback      , TP:  76  , TP+FP: 129  , TP+FN:  90  , Precision:0.5891, Recall:0.8444
+Class 6 :       estate       , TP:  15  , TP+FP:  23  , TP+FN:  19  , Precision:0.6522, Recall:0.7895
+Class 7 :       pickup       , TP:  57  , TP+FP:  64  , TP+FN:  58  , Precision:0.8906, Recall:0.9828
+Class 8 : hardtopconvertible , TP:  33  , TP+FP:  71  , TP+FN:  35  , Precision:0.4648, Recall:0.9429
+Class 9 :       sports       , TP: 250  , TP+FP: 280  , TP+FN: 335  , Precision:0.8929, Recall:0.7463
+Class10 :     crossover      , TP:  34  , TP+FP:  46  , TP+FN:  38  , Precision:0.7391, Recall:0.8947
+Class11 :    convertible     , TP:  31  , TP+FP:  43  , TP+FN:  34  , Precision:0.7209, Recall:0.9118
+Average Precision:  0.7770, Average Recall:  0.8793
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+-----Color-----:
+Class 0 :       black        , TP: 591  , TP+FP: 599  , TP+FN: 622  , Precision:0.9866, Recall:0.9502
+Class 1 :       white        , TP: 1030 , TP+FP: 1113 , TP+FN: 1072 , Precision:0.9254, Recall:0.9608
+Class 2 :        red         , TP: 387  , TP+FP: 388  , TP+FN: 399  , Precision:0.9974, Recall:0.9699
+Class 3 :       yellow       , TP:  26  , TP+FP:  27  , TP+FN:  26  , Precision:0.9630, Recall:1.0000
+Class 4 :        blue        , TP: 220  , TP+FP: 220  , TP+FN: 221  , Precision:1.0000, Recall:0.9955
+Class 5 :       green        , TP:  7   , TP+FP:  12  , TP+FN:  7   , Precision:0.5833, Recall:1.0000
+Class 6 :       purple       , TP:  8   , TP+FP:  23  , TP+FN:  8   , Precision:0.3478, Recall:1.0000
+Class 7 :       orange       , TP:  59  , TP+FP:  60  , TP+FN:  61  , Precision:0.9833, Recall:0.9672
+Class 8 :        gold        , TP:  1   , TP+FP:  1   , TP+FN:  2   , Precision:1.0000, Recall:0.5000
+Class 9 :       silver       , TP: 404  , TP+FP: 452  , TP+FN: 477  , Precision:0.8938, Recall:0.8470
+Average Precision:  0.8681, Average Recall:  0.9191
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+--Seat Number--:
+Class 0 :        zero        , TP:  6   , TP+FP:  10  , TP+FN:  7   , Precision:0.6000, Recall:0.8571
+Class 1 :        two         , TP: 192  , TP+FP: 246  , TP+FN: 214  , Precision:0.7805, Recall:0.8972
+Class 2 :       three        , TP:  4   , TP+FP:  8   , TP+FN:  6   , Precision:0.5000, Recall:0.6667
+Class 3 :        four        , TP: 225  , TP+FP: 329  , TP+FN: 271  , Precision:0.6839, Recall:0.8303
+Class 4 :        five        , TP: 1929 , TP+FP: 1968 , TP+FN: 2127 , Precision:0.9802, Recall:0.9069
+Class 5 :        six         , TP:  11  , TP+FP:  17  , TP+FN:  12  , Precision:0.6471, Recall:0.9167
+Class 6 :       seven        , TP: 168  , TP+FP: 228  , TP+FN: 187  , Precision:0.7368, Recall:0.8984
+Class 7 :       eight        , TP:  23  , TP+FP:  34  , TP+FN:  27  , Precision:0.6765, Recall:0.8519
+Class 8 :        nine        , TP:  26  , TP+FP:  34  , TP+FN:  27  , Precision:0.7647, Recall:0.9630
+Class 9 :        ten         , TP:  0   , TP+FP:  1   , TP+FN:  0   , Precision:0.0000, Recall:   nan
+Class10 :       eleven       , TP:  3   , TP+FP:  5   , TP+FN:  3   , Precision:0.6000, Recall:1.0000
+Class11 :       twelve       , TP:  2   , TP+FP:  3   , TP+FN:  2   , Precision:0.6667, Recall:1.0000
+Class12 :      fifteen       , TP:  8   , TP+FP:  9   , TP+FN:  9   , Precision:0.8889, Recall:0.8889
+Class13 :     twenty-one     , TP:  3   , TP+FP:  3   , TP+FN:  3   , Precision:1.0000, Recall:1.0000
+Class14 :    twenty-three    , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Average Precision:  0.6804, Average Recall:  0.8982
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+--Door Number--:
+Class 0 :        zero        , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Class 1 :        two         , TP: 360  , TP+FP: 413  , TP+FN: 420  , Precision:0.8717, Recall:0.8571
+Class 2 :       three        , TP:  86  , TP+FP: 136  , TP+FN:  93  , Precision:0.6324, Recall:0.9247
+Class 3 :        four        , TP: 788  , TP+FP: 919  , TP+FN: 894  , Precision:0.8575, Recall:0.8814
+Class 4 :        five        , TP: 1328 , TP+FP: 1427 , TP+FN: 1488 , Precision:0.9306, Recall:0.8925
+Class 5 :        six         , TP:  0   , TP+FP:  0   , TP+FN:  0   , Precision:   nan, Recall:   nan
+Average Precision:  0.8230, Average Recall:  0.8889
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
